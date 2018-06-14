@@ -1,4 +1,4 @@
-public class Sha256u
+public class Sha256
 {
 	public static final int SHA256_DIGEST_SIZE=32;
 	private int state[]=new int[]{0x6a09e667,0xbb67ae85,0x3c6ef372,0xa54ff53a
